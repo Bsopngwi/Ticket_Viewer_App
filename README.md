@@ -27,9 +27,7 @@ To run this project, you will need to have python 3.8 installed and also request
 if using VS as editor make sure to install the following libraries
 *requests
 *CaseInsensitiveDict
-Below is the required email and Password to use as credential
-Email: Barbara.c.sopngwi@ttu.edu
-Password:Barb200201!
+
 
 ## More Information
 Unit testing was done by tessting the logic that is being implemented 
